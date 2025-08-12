@@ -1,0 +1,5 @@
+Time: 2025-08-12 02:17:41
+Payload Sent: {"accountNumber":"070923752854","amount":1,"bankCode":"970403","description":"AccountVerification","orderCode":"17549578611679","signature":"294bb7f26c8e9e66339fc2ac0b92b049907fd8e2babee42fc43f267b3cf5e921"}
+Response Received: {"message":"Endpoint not found."}
+cURL Error: 
+----------------------------------------
