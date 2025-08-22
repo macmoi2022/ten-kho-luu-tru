@@ -1,0 +1,48 @@
+[15-Aug-2025 22:44:09 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key 0 in /home/gtorxto/public_html/v9/index.php on line 6
+[15-Aug-2025 22:45:08 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key 0 in /home/gtorxto/public_html/v9/index.php on line 6
+[15-Aug-2025 23:16:30 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gtorxto/public_html/v9/receive_webhook.php on line 63
+[16-Aug-2025 12:22:33 Asia/Ho_Chi_Minh] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gtorxto/public_html/v9/index.php on line 172
+[16-Aug-2025 12:26:06 Asia/Ho_Chi_Minh] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gtorxto/public_html/v9/index.php on line 127
+[16-Aug-2025 12:27:32 Asia/Ho_Chi_Minh] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gtorxto/public_html/v9/index.php on line 127
+[16-Aug-2025 12:30:24 Asia/Ho_Chi_Minh] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gtorxto/public_html/v9/index.php on line 131
+[16-Aug-2025 13:08:45 Asia/Ho_Chi_Minh] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gtorxto/public_html/v9/index.php on line 114
+[16-Aug-2025 13:10:55 Asia/Ho_Chi_Minh] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gtorxto/public_html/v9/index.php on line 114
+[16-Aug-2025 13:13:39 Asia/Ho_Chi_Minh] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gtorxto/public_html/v9/index.php on line 126
+[16-Aug-2025 13:16:43 Asia/Ho_Chi_Minh] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gtorxto/public_html/v9/index.php on line 127
+[16-Aug-2025 13:24:15 Asia/Ho_Chi_Minh] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gtorxto/public_html/v9/index.php on line 120
+[16-Aug-2025 13:27:36 Asia/Ho_Chi_Minh] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gtorxto/public_html/v9/index.php on line 141
+[16-Aug-2025 13:28:02 Asia/Ho_Chi_Minh] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gtorxto/public_html/v9/index.php on line 126
+[16-Aug-2025 13:30:31 Asia/Ho_Chi_Minh] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gtorxto/public_html/v9/index.php on line 124
+[16-Aug-2025 13:31:09 Asia/Ho_Chi_Minh] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gtorxto/public_html/v9/index.php on line 127
+[16-Aug-2025 13:31:22 Asia/Ho_Chi_Minh] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gtorxto/public_html/v9/index.php on line 124
+[16-Aug-2025 13:32:55 Asia/Ho_Chi_Minh] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gtorxto/public_html/v9/index.php on line 122
+[16-Aug-2025 13:34:33 Asia/Ho_Chi_Minh] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gtorxto/public_html/v9/index.php on line 115
+[16-Aug-2025 13:36:01 Asia/Ho_Chi_Minh] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gtorxto/public_html/v9/index.php on line 125
+[16-Aug-2025 13:37:36 Asia/Ho_Chi_Minh] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gtorxto/public_html/v9/index.php on line 114
+[19-Aug-2025 06:01:11 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gtorxto/public_html/v9/receive_webhook.php on line 63
+[20-Aug-2025 16:24:57 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Exception: Your requested sheet index: 1 is out of bounds. The actual number of sheets is 1. in /home/gtorxto/public_html/v9/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Spreadsheet.php:683
+Stack trace:
+#0 /home/gtorxto/public_html/v9/export_styled.php(40): PhpOffice\PhpSpreadsheet\Spreadsheet->getSheet()
+#1 /home/gtorxto/public_html/v9/export_styled.php(170): createReportSheet()
+#2 {main}
+  thrown in /home/gtorxto/public_html/v9/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Spreadsheet.php on line 683
+[20-Aug-2025 16:25:18 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Exception: Your requested sheet index: 1 is out of bounds. The actual number of sheets is 1. in /home/gtorxto/public_html/v9/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Spreadsheet.php:683
+Stack trace:
+#0 /home/gtorxto/public_html/v9/export_styled.php(40): PhpOffice\PhpSpreadsheet\Spreadsheet->getSheet()
+#1 /home/gtorxto/public_html/v9/export_styled.php(170): createReportSheet()
+#2 {main}
+  thrown in /home/gtorxto/public_html/v9/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Spreadsheet.php on line 683
+[20-Aug-2025 16:25:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Exception: Your requested sheet index: 1 is out of bounds. The actual number of sheets is 1. in /home/gtorxto/public_html/v9/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Spreadsheet.php:683
+Stack trace:
+#0 /home/gtorxto/public_html/v9/export_styled.php(40): PhpOffice\PhpSpreadsheet\Spreadsheet->getSheet()
+#1 /home/gtorxto/public_html/v9/export_styled.php(170): createReportSheet()
+#2 {main}
+  thrown in /home/gtorxto/public_html/v9/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Spreadsheet.php on line 683
+[20-Aug-2025 16:29:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Exception: Your requested sheet index: 1 is out of bounds. The actual number of sheets is 1. in /home/gtorxto/public_html/v9/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Spreadsheet.php:683
+Stack trace:
+#0 /home/gtorxto/public_html/v9/export_styled.php(43): PhpOffice\PhpSpreadsheet\Spreadsheet->getSheet()
+#1 /home/gtorxto/public_html/v9/export_styled.php(173): createReportSheet()
+#2 {main}
+  thrown in /home/gtorxto/public_html/v9/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Spreadsheet.php on line 683
+[20-Aug-2025 18:01:27 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/gtorxto/public_html/v9/export_styled.php on line 159
+[20-Aug-2025 18:01:30 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/gtorxto/public_html/v9/export_styled.php on line 159
